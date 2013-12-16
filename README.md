@@ -22,3 +22,6 @@ Projects
 
 ### [Your project](https://github.com/yourname/yourpoject)
 A short description of what it does
+
+### [Fortune's Algorithm Animation](https://github.com/rpgaggioli/fortunes)
+Displays an animation of Fortune's Line Sweep Voronoi Algoritm.
